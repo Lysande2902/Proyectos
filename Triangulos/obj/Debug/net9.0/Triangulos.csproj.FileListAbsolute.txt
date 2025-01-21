@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyectos\Triangulos\bin\Debug\net9.0\Triangulos.exe
+C:\Users\yengl\Desktop\Proyectos\Triangulos\bin\Debug\net9.0\Triangulos.deps.json
+C:\Users\yengl\Desktop\Proyectos\Triangulos\bin\Debug\net9.0\Triangulos.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyectos\Triangulos\bin\Debug\net9.0\Triangulos.dll
+C:\Users\yengl\Desktop\Proyectos\Triangulos\bin\Debug\net9.0\Triangulos.pdb
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.dll
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\refint\Triangulos.dll
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.pdb
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\Triangulos.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyectos\Triangulos\obj\Debug\net9.0\ref\Triangulos.dll

@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\bin\Debug\net9.0\Seriedenumeros.exe
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\bin\Debug\net9.0\Seriedenumeros.deps.json
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\bin\Debug\net9.0\Seriedenumeros.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\bin\Debug\net9.0\Seriedenumeros.dll
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\bin\Debug\net9.0\Seriedenumeros.pdb
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.dll
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\refint\Seriedenumeros.dll
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.pdb
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\Seriedenumeros.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyectos\Seriedenumeros\obj\Debug\net9.0\ref\Seriedenumeros.dll

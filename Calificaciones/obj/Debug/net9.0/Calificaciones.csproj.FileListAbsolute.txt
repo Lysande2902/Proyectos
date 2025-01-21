@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\bin\Debug\net9.0\Calificaciones.exe
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\bin\Debug\net9.0\Calificaciones.deps.json
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\bin\Debug\net9.0\Calificaciones.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\bin\Debug\net9.0\Calificaciones.dll
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\bin\Debug\net9.0\Calificaciones.pdb
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.dll
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\refint\Calificaciones.dll
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.pdb
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\Calificaciones.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyectos\Calificaciones\obj\Debug\net9.0\ref\Calificaciones.dll

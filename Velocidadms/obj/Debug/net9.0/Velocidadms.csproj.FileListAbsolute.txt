@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\bin\Debug\net9.0\Velocidadms.exe
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\bin\Debug\net9.0\Velocidadms.deps.json
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\bin\Debug\net9.0\Velocidadms.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\bin\Debug\net9.0\Velocidadms.dll
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\bin\Debug\net9.0\Velocidadms.pdb
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.dll
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\refint\Velocidadms.dll
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.pdb
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\Velocidadms.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyectos\Velocidadms\obj\Debug\net9.0\ref\Velocidadms.dll

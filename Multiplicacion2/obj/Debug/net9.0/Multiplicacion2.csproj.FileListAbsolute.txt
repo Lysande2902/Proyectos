@@ -1,0 +1,14 @@
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\bin\Debug\net9.0\Multiplicacion2.exe
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\bin\Debug\net9.0\Multiplicacion2.deps.json
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\bin\Debug\net9.0\Multiplicacion2.runtimeconfig.json
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\bin\Debug\net9.0\Multiplicacion2.dll
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\bin\Debug\net9.0\Multiplicacion2.pdb
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.AssemblyInfoInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.AssemblyInfo.cs
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.csproj.CoreCompileInputs.cache
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.dll
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\refint\Multiplicacion2.dll
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.pdb
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\Multiplicacion2.genruntimeconfig.cache
+C:\Users\yengl\Desktop\Proyectos\Multiplicacion2\obj\Debug\net9.0\ref\Multiplicacion2.dll
